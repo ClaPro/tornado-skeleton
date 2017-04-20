@@ -1,0 +1,15 @@
+astroid==1.4.5
+colorama==0.3.7
+invoke==0.12.2
+lazy-object-proxy==1.2.2
+mccabe==0.4.0
+pep257==0.7.0
+pep8==1.7.0
+py==1.4.31
+pyflakes==1.2.3
+pylama==7.0.9
+pylama-pylint==2.2.1
+pylint==1.5.4
+pytest==2.9.1
+six==1.10.0
+wrapt==1.10.8
